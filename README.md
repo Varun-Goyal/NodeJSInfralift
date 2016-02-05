@@ -13,4 +13,4 @@ Created with [Nodeclipse](https://github.com/Nodeclipse/nodeclipse-1)
 Nodeclipse is free open-source project that grows with your contributions.
 
 
-This code uploads image file (.png, .jpg, .jpeg, .tif) to the server and also persists the form data in MySQL database. 
+This node.js code uploads image file (.png, .jpg, .jpeg, .tif) to the server and also persists the form data in MySQL database. 
